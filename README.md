@@ -87,6 +87,3 @@ This project uses Git LFS to handle large data files. The credit card transactio
 - **Vedant Singh** - ML/AI/Data Specialist
 - **Utkarsh Awasthi** - Database Specialist
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
