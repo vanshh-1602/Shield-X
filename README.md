@@ -84,6 +84,6 @@ This project uses Git LFS to handle large data files. The credit card transactio
 ## Team
 
 - **Vansh Bhadoria** - Project Lead/Manager, Full Stack Dev
-- **Vedant Singh** - ML/AI/Data Specialist
+- **Vedant Singh** - ML/Data Specialist
 - **Utkarsh Awasthi** - Database Specialist
 
